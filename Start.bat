@@ -1,0 +1,1 @@
+start conhost.exe ./out/build/x64-Debug/CalculatorApp.exe
